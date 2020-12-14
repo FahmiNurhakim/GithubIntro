@@ -5,3 +5,4 @@ Durians
 Rambutans
 Oranges
 StarFruit
+Cherry
